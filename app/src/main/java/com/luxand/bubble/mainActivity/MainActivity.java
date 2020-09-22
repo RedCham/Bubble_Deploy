@@ -67,8 +67,8 @@ public class MainActivity extends AppCompatActivity {
                         startActivity(in4);
                         break;
                     case R.id.bubblingFace:
-                        Intent in5 = new Intent(MainActivity.this, BubblingFaceActivity.class);
-                        startActivity(in5);
+                        //Intent in5 = new Intent(MainActivity.this, BubblingFaceActivity.class);
+                        //startActivity(in5);
                         break;
                     case R.id.howtouse:
                         Intent in6 = new Intent(MainActivity.this, HowtoUseActivity.class);
